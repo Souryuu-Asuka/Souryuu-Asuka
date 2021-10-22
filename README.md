@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souryuu-Asuka
 - 👀 I’m interested in Philosophy
-- 🌱 I’m currently learning Laws
+- 🌱 I’m currently learning Scala
 
 <!---
 Souryuu-Asuka/Souryuu-Asuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
